@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/tarea3/static/css/main.cd73dcd2.chunk.css",
+    "main.js": "/tarea3/static/js/main.08fe50f7.chunk.js",
+    "main.js.map": "/tarea3/static/js/main.08fe50f7.chunk.js.map",
+    "runtime-main.js": "/tarea3/static/js/runtime-main.957d1d62.js",
+    "runtime-main.js.map": "/tarea3/static/js/runtime-main.957d1d62.js.map",
+    "static/css/2.bf07cc69.chunk.css": "/tarea3/static/css/2.bf07cc69.chunk.css",
+    "static/js/2.7ceb1bb6.chunk.js": "/tarea3/static/js/2.7ceb1bb6.chunk.js",
+    "static/js/2.7ceb1bb6.chunk.js.map": "/tarea3/static/js/2.7ceb1bb6.chunk.js.map",
+    "static/js/3.1ba47416.chunk.js": "/tarea3/static/js/3.1ba47416.chunk.js",
+    "static/js/3.1ba47416.chunk.js.map": "/tarea3/static/js/3.1ba47416.chunk.js.map",
+    "index.html": "/tarea3/index.html",
+    "precache-manifest.8e839bd4e8867f3e4f8af4a8fbae4f4c.js": "/tarea3/precache-manifest.8e839bd4e8867f3e4f8af4a8fbae4f4c.js",
+    "service-worker.js": "/tarea3/service-worker.js",
+    "static/css/2.bf07cc69.chunk.css.map": "/tarea3/static/css/2.bf07cc69.chunk.css.map",
+    "static/css/main.cd73dcd2.chunk.css.map": "/tarea3/static/css/main.cd73dcd2.chunk.css.map",
+    "static/js/2.7ceb1bb6.chunk.js.LICENSE.txt": "/tarea3/static/js/2.7ceb1bb6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.957d1d62.js",
+    "static/css/2.bf07cc69.chunk.css",
+    "static/js/2.7ceb1bb6.chunk.js",
+    "static/css/main.cd73dcd2.chunk.css",
+    "static/js/main.08fe50f7.chunk.js"
+  ]
+}
